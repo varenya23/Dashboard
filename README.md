@@ -1,1 +1,1 @@
-Used PowerBI to prepare Amazon-Prime Dashboard
+Leveraged PowerBI to prepare Amazon-Prime Dashboard
